@@ -1,5 +1,12 @@
 # Slim web-service
-## PHP 7.4
+
+## Ferramentas
+
+- PHP 7.4  
+- Slim 4.5
+- Doctrine/orm 2.7  
+- Ramsey/uuid 4.1  
+
 ## Execução
 
 Acesse o diretório raiz do projeto e execute o seguinte comando:  
